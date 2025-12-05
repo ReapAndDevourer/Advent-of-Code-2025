@@ -6,7 +6,7 @@
 | **Day Name** | **Part 1**     | **Part 2**     |
 |--------------|----------------|----------------|
 | Day 1        | ✔️ Implemented | ✔️ Implemented |
-| Day 2        | ❌ Not Started  | ❌ Not Started |
+| Day 2        | ✔️ Implemented | ✔️ Implemented |
 | Day 3        | ❌ Not Started  | ❌ Not Started |
 | Day 4        | ❌ Not Started  | ❌ Not Started |
 | Day 5        | ❌ Not Started  | ❌ Not Started |
