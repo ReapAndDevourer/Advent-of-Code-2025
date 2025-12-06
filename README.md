@@ -7,7 +7,7 @@
 |--------------|----------------|----------------|
 | Day 1        | ✔️ Implemented | ✔️ Implemented |
 | Day 2        | ✔️ Implemented | ✔️ Implemented |
-| Day 3        | ❌ Not Started  | ❌ Not Started |
+| Day 3        | ✔️ Implemented | ✔️ Implemented |
 | Day 4        | ❌ Not Started  | ❌ Not Started |
 | Day 5        | ❌ Not Started  | ❌ Not Started |
 | Day 6        | ❌ Not Started  | ❌ Not Started |
